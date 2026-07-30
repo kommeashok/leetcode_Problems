@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kommeashok/leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
 ## String
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kommeashok/leetcode_Problems/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
