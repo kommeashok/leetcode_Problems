@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kommeashok/leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/kommeashok/leetcode_Problems/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
