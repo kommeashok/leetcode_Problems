@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kommeashok/leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0344-reverse-string) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kommeashok/leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
