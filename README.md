@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/kommeashok/leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/kommeashok/leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kommeashok/leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kommeashok/leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
