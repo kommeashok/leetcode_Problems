@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kommeashok/leetcode_Problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1527-patients-with-a-condition](https://github.com/kommeashok/leetcode_Problems/tree/master/1527-patients-with-a-condition) |
 | [1890-the-latest-login-in-2020](https://github.com/kommeashok/leetcode_Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Heap (Priority Queue)
