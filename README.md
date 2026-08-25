@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kommeashok/leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kommeashok/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kommeashok/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kommeashok/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
