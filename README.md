@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/kommeashok/leetcode_Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kommeashok/leetcode_Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kommeashok/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kommeashok/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kommeashok/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kommeashok/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kommeashok/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -120,5 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
