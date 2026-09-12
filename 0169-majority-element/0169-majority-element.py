@@ -7,12 +7,26 @@ class Solution:
         #             count+=1
         #     if count>len(nums)//2:
         #         return nums[i]
-        dictionary = {}
-        for i in range(0,len(nums)):
-            if nums[i] not in dictionary:
-                dictionary[nums[i]]=1
+        # dictionary = {}
+        # for i in range(0,len(nums)):
+        #     if nums[i] not in dictionary:
+        #         dictionary[nums[i]]=1
+        #     else:
+        #         dictionary[nums[i]]+=1
+        # for key,value in dictionary.items():
+        #     if value>len(nums)//2:
+        #         return key
+        candidate = 0
+        count = 0
+
+        for num in nums:
+
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count += 1
             else:
-                dictionary[nums[i]]+=1
-        for key,value in dictionary.items():
-            if value>len(nums)//2:
-                return key
+                count -= 1
+
+        return candidate
