@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kommeashok/leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kommeashok/leetcode_Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kommeashok/leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/kommeashok/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kommeashok/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
