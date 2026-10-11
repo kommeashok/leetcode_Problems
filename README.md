@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kommeashok/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kommeashok/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kommeashok/leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kommeashok/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/kommeashok/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kommeashok/leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
