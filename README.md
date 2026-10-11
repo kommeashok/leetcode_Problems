@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kommeashok/leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/kommeashok/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kommeashok/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/3731-find-missing-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kommeashok/leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
 |  |
