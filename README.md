@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kommeashok/leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kommeashok/leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/kommeashok/leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kommeashok/leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/kommeashok/leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kommeashok/leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kommeashok/leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/kommeashok/leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kommeashok/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kommeashok/leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kommeashok/leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kommeashok/leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
