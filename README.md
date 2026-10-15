@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kommeashok/leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/kommeashok/leetcode_Problems/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/kommeashok/leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kommeashok/leetcode_Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kommeashok/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kommeashok/leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/kommeashok/leetcode_Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kommeashok/leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kommeashok/leetcode_Problems/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/kommeashok/leetcode_Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/kommeashok/leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kommeashok/leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kommeashok/leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kommeashok/leetcode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kommeashok/leetcode_Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
