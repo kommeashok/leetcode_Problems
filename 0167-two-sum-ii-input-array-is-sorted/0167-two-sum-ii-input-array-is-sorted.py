@@ -1,14 +1,27 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
+        # left = 1
+        # right = len(numbers)-1
+        # while left<right:
+        #     if numbers[left]+numbers[right]<target:
+        #         left+=1
+        #     elif numbers[left]+numbers[right]>target:
+        #         right-=1
+        #     else:
+        #         return left,right
+
         left = 0
         right = len(numbers)-1
         while left<right:
-            if numbers[left]+numbers[right]<target:
+            if (numbers[left]+numbers[right]<target):
                 left+=1
-            elif numbers[left]+numbers[right]>target:
+            elif (numbers[left]+numbers[right]>target):
                 right-=1
-            else:
-                return [left+1,right+1]
-
+            
+            elif numbers[left]+numbers[right]==target:
+                return left+1,right+1
+            # elif numbers[left-1]+numbers[right]>target:
+            #     right-=1
+            
 
         
