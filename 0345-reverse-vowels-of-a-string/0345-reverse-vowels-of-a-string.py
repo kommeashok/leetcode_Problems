@@ -8,10 +8,15 @@ class Solution:
                 left+=1
             elif arr[right] not in "AEIOUaeiou":
                 right-=1
-            elif arr[left] and arr[right] in "AEIOUaeiou":
+            else:
                 arr[left],arr[right] = arr[right],arr[left]
                 left+=1
                 right-=1
+
+            # elif arr[left] and arr[right] in "AEIOUaeiou":
+            #     arr[left],arr[right] = arr[right],arr[left]
+            #     left+=1
+            #     right-=1
 
         return ''.join(arr)
              
